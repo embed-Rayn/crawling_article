@@ -14,10 +14,10 @@ _본 문서는 아래와 같은 규칙을 따라 작성되었습니다._
 4. 빠른 접근을 위한 DB탑재
 5. 유연한 검색을 위한 DB 탑재
 
-## 0. [공부]()
+## 0. [공부](https://github.com/embed-Rayn/crawling_article/tree/master/study)
 파이썬 크롤링의 경우 이전에 사용한 적이 있기에 감을 잡는 정도로 공부를 했습니다.
 - edwith의 [파이썬을 이용한 웹 스크래핑](https://www.edwith.org/python-network-data/joinLectures/13749)
-	- [실습자료]()
+	- [실습자료](https://github.com/embed-Rayn/crawling_article/blob/master/study/crawling_theory.ipynb)
 - [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-	- [실습자료]()
+	- [실습자료](https://github.com/embed-Rayn/crawling_article/blob/master/study/crawling_bs_study.ipynb)
 
